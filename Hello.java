@@ -1,5 +1,3 @@
-#this is just for testing 
-
 public class Hello {
 
     
